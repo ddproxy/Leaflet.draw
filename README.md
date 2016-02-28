@@ -2,6 +2,8 @@
 Status](https://secure.travis-ci.org/ddproxy/Leaflet.draw.png?branch=master)](http://travis-ci.org/ddproxy/Leaflet.draw)
 
 #Leaflet.draw With Touch
+
+[![Join the chat at https://gitter.im/ddproxy/Leaflet.draw](https://badges.gitter.im/ddproxy/Leaflet.draw.svg)](https://gitter.im/ddproxy/Leaflet.draw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a touch friendly version of Leaflet.draw that was created and maintained by Michael Guild (https://github.com/michaelguild13).
 
 The touch support was initiated due to a demand for it at National Geographic for their Map Maker Projected (http://mapmaker.education.nationalgeographic.com/) that was created by Michael Guild and Daniel Schep (https://github.com/dschep)
